@@ -1,2 +1,3 @@
 # read.txt
-hello world
+welcome to my channel
+arun channel
